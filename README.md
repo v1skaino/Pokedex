@@ -1,3 +1,7 @@
+
+# Pokedex
+![Captura de tela de 2022-06-17 21-51-59](https://user-images.githubusercontent.com/94409865/174416602-8e937056-b3cb-43d8-8125-ec58fd974e37.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
